@@ -11,6 +11,7 @@ public class Application {
 
     @RequestMapping("/")
     public String home() {
+        
         return "Java rodando em Docker";
     }
 

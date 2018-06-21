@@ -2,5 +2,5 @@ projectKey=ExemploJava
 serverUrl=http://localhost:9000
 serverVersion=7.0.0.36138
 dashboardUrl=http://localhost:9000/dashboard/index/ExemploJava
-ceTaskId=AWFtdRK2v5JgbyXXtyME
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWFtdRK2v5JgbyXXtyME
+ceTaskId=AWJjzT-fERS3Qm_xQAju
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWJjzT-fERS3Qm_xQAju
